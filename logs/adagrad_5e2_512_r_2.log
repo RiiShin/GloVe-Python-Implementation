@@ -1,0 +1,16 @@
+nohup: ignoring input
+Vocabulary size: 273279
+Dataloader initialized!
+Epoch 1/6 : loss = 0.9208067680401714
+Dataloader initialized!
+Epoch 2/6 : loss = 0.2949808219229273
+Dataloader initialized!
+Epoch 3/6 : loss = 0.19512200749739722
+Dataloader initialized!
+Epoch 4/6 : loss = 0.15129618952443932
+Dataloader initialized!
+Epoch 5/6 : loss = 0.12854839835407436
+Dataloader initialized!
+Epoch 6/6 : loss = 0.11523685803352406
+Minimal loss: 0.11523685803352406
+Training finished!
