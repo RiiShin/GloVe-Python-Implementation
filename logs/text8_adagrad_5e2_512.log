@@ -1,0 +1,44 @@
+nohup: ignoring input
+Dataloader initialized!
+Epoch 1/20 : loss = 1.4321339823469217
+Dataloader initialized!
+Epoch 2/20 : loss = 0.6662339532944273
+Dataloader initialized!
+Epoch 3/20 : loss = 0.44781346312297365
+Dataloader initialized!
+Epoch 4/20 : loss = 0.33708334928437345
+Dataloader initialized!
+Epoch 5/20 : loss = 0.2696183238238516
+Dataloader initialized!
+Epoch 6/20 : loss = 0.22489220807219282
+Dataloader initialized!
+Epoch 7/20 : loss = 0.19230669978832565
+Dataloader initialized!
+Epoch 8/20 : loss = 0.16817317921163025
+Dataloader initialized!
+Epoch 9/20 : loss = 0.14937043144933748
+Dataloader initialized!
+Epoch 10/20 : loss = 0.1342733691366261
+Dataloader initialized!
+Epoch 11/20 : loss = 0.12210138910720719
+Dataloader initialized!
+Epoch 12/20 : loss = 0.11202750967833121
+Dataloader initialized!
+Epoch 13/20 : loss = 0.1037258154929983
+Dataloader initialized!
+Epoch 14/20 : loss = 0.09669837824307857
+Dataloader initialized!
+Epoch 15/20 : loss = 0.09067487682654843
+Dataloader initialized!
+Epoch 16/20 : loss = 0.0854653757035396
+Dataloader initialized!
+Epoch 17/20 : loss = 0.08093753972092237
+Dataloader initialized!
+Epoch 18/20 : loss = 0.07701687663582087
+Dataloader initialized!
+Epoch 19/20 : loss = 0.07363572660329598
+Dataloader initialized!
+Epoch 20/20 : loss = 0.07043770463832391
+Minimal loss: 0.07043770463832391
+Training finished!
+Cruve saved!
