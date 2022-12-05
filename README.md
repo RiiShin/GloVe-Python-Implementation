@@ -10,7 +10,7 @@ Train GloVe model:
 
 	python3 scripts/train.py -cp=cooc_matrix/text8_h5.hdf5 -p=saved_models/model_text8_512_adag_5e2.pt -ep=20
 The Loss-epoch curve graph will be saved in logs, just like this:
-<center><img src="./logs/training_curve.jpg" width="60%"></center>
+<center><img src="./logs/text8_train.jpg" width="60%"></center>
 
 Finally, you can use this code to validate GloVe loss computation:  
 	
