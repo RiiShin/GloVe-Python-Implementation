@@ -1,0 +1,43 @@
+nohup: ignoring input
+Dataloader initialized!
+Epoch 1/20 : loss = 0.9185547646507736
+Dataloader initialized!
+Epoch 2/20 : loss = 0.29519380385170263
+Dataloader initialized!
+Epoch 3/20 : loss = 0.19573040765857286
+Dataloader initialized!
+Epoch 4/20 : loss = 0.1516256373159253
+Dataloader initialized!
+Epoch 5/20 : loss = 0.12865915954743917
+Dataloader initialized!
+Epoch 6/20 : loss = 0.11524497957666842
+Dataloader initialized!
+Epoch 7/20 : loss = 0.1063899518200423
+Dataloader initialized!
+Epoch 8/20 : loss = 0.10007123453800662
+Dataloader initialized!
+Epoch 9/20 : loss = 0.09523748721500623
+Dataloader initialized!
+Epoch 10/20 : loss = 0.09133401597704198
+Dataloader initialized!
+Epoch 11/20 : loss = 0.08806351250397955
+Dataloader initialized!
+Epoch 12/20 : loss = 0.08521087724595271
+Dataloader initialized!
+Epoch 13/20 : loss = 0.0826496785713332
+Dataloader initialized!
+Epoch 14/20 : loss = 0.0803197521728757
+Dataloader initialized!
+Epoch 15/20 : loss = 0.07820508812246221
+Dataloader initialized!
+Epoch 16/20 : loss = 0.07622438687751266
+Dataloader initialized!
+Epoch 17/20 : loss = 0.07441298934709481
+Dataloader initialized!
+Epoch 18/20 : loss = 0.07271587425941828
+Dataloader initialized!
+Epoch 19/20 : loss = 0.07114425741999164
+Dataloader initialized!
+Epoch 20/20 : loss = 0.06964821182554407
+Minimal loss: 0.06964821182554407
+Training finished!
