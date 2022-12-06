@@ -95,7 +95,7 @@ if __name__ == '__main__':
         
         for cooc_chunk in tqdm(pool.imap(process_chunk, chunk_iterator)):
             cooc += cooc_chunk
-            # print(f"Not-none entries: {cooc.nnz}")
+            print(f"Not-none entries: {cooc.nnz}")
             gc.collect()
 
     cooc_coo = cooc.tocoo()
